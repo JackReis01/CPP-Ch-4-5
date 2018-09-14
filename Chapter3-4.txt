@@ -1,0 +1,5 @@
+3.9 You would have to start the program over every time.
+3.10 It takes less lines of code an is less wordy because were lazy.
+3.11 Do while are good for when you get the while input at the end. 
+3.12 It lets us loop smaller increments of a game.
+3.13 They never end... ever.
